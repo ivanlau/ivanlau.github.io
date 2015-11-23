@@ -128,8 +128,11 @@ var duoshuoQuery = {short_name:&quot;ivanlau&quot;};
 </pre></div>
 
 
-<p>其中第二行代码我稍作修改
-    <div class="ds-thread" data-thread-key="{{ article.url }}" data-title="{{ article.title }}" data-url="{{ SITEURL }}/{{ article.url }}"></div></p>
+<p>其中第二行代码我稍作修改</p>
+<div class="highlight"><pre>    <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">&quot;ds-thread&quot;</span> <span class="na">data-thread-key=</span><span class="s">&quot;</span><span class="cp">{{</span> <span class="nv">article.url</span> <span class="cp">}}</span><span class="s">&quot;</span> <span class="na">data-title=</span><span class="s">&quot;</span><span class="cp">{{</span> <span class="nv">article.title</span> <span class="cp">}}</span><span class="s">&quot;</span> <span class="na">data-url=</span><span class="s">&quot;</span><span class="cp">{{</span> <span class="nv">SITEURL</span> <span class="cp">}}</span><span class="s">/</span><span class="cp">{{</span> <span class="nv">article.url</span> <span class="cp">}}</span><span class="s">&quot;</span><span class="nt">&gt;&lt;/div&gt;</span>
+</pre></div>
+
+
 <ul>
 <li>
 <p>不知道为什么我按文中方法配置Makefile，但是上传github这一步好像没执行，回头调试一下找原因。但临时应急写了个批处理暂时用一下还可以：</p>
