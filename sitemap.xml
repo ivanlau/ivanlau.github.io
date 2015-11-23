@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2015-11-23T20:15:55-00:00</lastmod>
+<lastmod>2015-11-23T23:08:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2015-11-23T20:15:55-00:00</lastmod>
+<lastmod>2015-11-23T23:08:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2015-11-23T20:15:55-00:00</lastmod>
+<lastmod>2015-11-23T23:08:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2015-11-23T20:15:55-00:00</lastmod>
+<lastmod>2015-11-23T23:08:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,6 +39,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/C2T2-W5-sz.html</loc>
+<lastmod>2015-11-23T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>/Penlican-install.html</loc>
+<lastmod>2015-11-23T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>/my-blog-prog.html</loc>
+<lastmod>2015-11-23T00:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+
+<url>
+<loc>/category/pythonzhi-lu.html</loc>
+<lastmod>2015-11-23T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/category/something.html</loc>
 <lastmod>2015-11-23T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -46,7 +74,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/tag/c2t2-python-shen-zhen.html</loc>
+<lastmod>2015-11-23T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/tag/pelican.html</loc>
+<lastmod>2015-11-23T00:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/blog-python-penlican.html</loc>
 <lastmod>2015-11-23T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
