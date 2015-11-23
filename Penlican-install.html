@@ -136,14 +136,21 @@ var duoshuoQuery = {short_name:&quot;ivanlau&quot;};
 <ul>
 <li>不知道为什么我按文中方法配置Makefile，但是上传github这一步好像没执行，回头调试一下找原因。但临时应急写了个批处理暂时用一下还可以：</li>
 </ul>
-<div class="highlight"><pre>    cd 完整路径
-    make publish
-    cd output
-    git add .
-    git pull origin master
-    git commit -m &#39;commit&#39;
-    git push origin master
-    cd..
+<div class="highlight"><pre>cd &lt;完整路径&gt;
+
+make publish
+
+cd output
+
+git add .
+
+git pull origin master
+
+git commit -m &#39;commit&#39;
+
+git push origin master
+
+cd..
 </pre></div>
 
 
