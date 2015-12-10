@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:929px;
+  width:678px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -15,9 +15,9 @@
 #u0 {
   position:absolute;
   left:300px;
-  top:982px;
-  width:629px;
-  height:17px;
+  top:590px;
+  width:378px;
+  height:10px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -26,14 +26,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:629px;
-  height:17px;
+  width:378px;
+  height:10px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:0px;
-  width:625px;
+  top:-3px;
+  width:374px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -41,8 +41,8 @@
   position:absolute;
   left:300px;
   top:0px;
-  width:85px;
-  height:84px;
+  width:51px;
+  height:50px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -51,23 +51,23 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:85px;
-  height:84px;
+  width:51px;
+  height:50px;
 }
 #u3 {
   position:absolute;
   left:2px;
-  top:34px;
-  width:81px;
+  top:17px;
+  width:47px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u4 {
   position:absolute;
-  left:384px;
+  left:351px;
   top:0px;
-  width:544px;
-  height:84px;
+  width:327px;
+  height:50px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -76,30 +76,30 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:544px;
-  height:84px;
+  width:327px;
+  height:50px;
 }
 #u5 {
   position:absolute;
   left:2px;
-  top:34px;
-  width:540px;
+  top:17px;
+  width:323px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u6 {
   position:absolute;
-  left:397px;
-  top:90px;
-  width:434px;
-  height:122px;
+  left:358px;
+  top:54px;
+  width:261px;
+  height:73px;
 }
 #u6_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:434px;
-  height:122px;
+  width:261px;
+  height:73px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -110,10 +110,10 @@
 }
 #u7 {
   position:absolute;
-  left:422px;
-  top:226px;
-  width:384px;
-  height:325px;
+  left:374px;
+  top:135px;
+  width:231px;
+  height:195px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -122,197 +122,197 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:384px;
-  height:325px;
+  width:231px;
+  height:195px;
 }
 #u8 {
   position:absolute;
   left:2px;
-  top:154px;
-  width:380px;
+  top:90px;
+  width:227px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u9 {
   position:absolute;
-  left:563px;
-  top:570px;
-  width:116px;
-  height:50px;
+  left:453px;
+  top:341px;
+  width:70px;
+  height:30px;
 }
 #u9_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:116px;
-  height:50px;
+  width:70px;
+  height:30px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:27px;
+  font-size:15px;
   text-decoration:none;
   color:#000000;
   text-align:left;
 }
 #u10 {
   position:absolute;
-  left:416px;
-  top:686px;
-  width:384px;
-  height:134px;
+  left:370px;
+  top:411px;
+  width:231px;
+  height:80px;
 }
 #u10_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:384px;
-  height:134px;
+  width:231px;
+  height:80px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:27px;
+  font-size:15px;
   text-decoration:none;
   color:#999999;
   text-align:left;
 }
 #u11 {
   position:absolute;
-  left:417px;
-  top:570px;
-  width:133px;
-  height:43px;
+  left:370px;
+  top:341px;
+  width:69px;
+  height:23px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:33px;
+  font-size:17px;
 }
 #u11_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
-  height:43px;
+  width:69px;
+  height:23px;
 }
 #u12 {
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:69px;
   white-space:nowrap;
 }
 #u13 {
   position:absolute;
-  left:416px;
-  top:635px;
-  width:133px;
-  height:43px;
+  left:370px;
+  top:380px;
+  width:69px;
+  height:23px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:33px;
+  font-size:17px;
 }
 #u13_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
-  height:43px;
+  width:69px;
+  height:23px;
 }
 #u14 {
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:69px;
   white-space:nowrap;
 }
 #u15 {
   position:absolute;
-  left:519px;
-  top:889px;
-  width:151px;
-  height:52px;
+  left:432px;
+  top:533px;
+  width:91px;
+  height:31px;
 }
 #u15_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:151px;
-  height:52px;
+  width:91px;
+  height:31px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:33px;
+  font-size:20px;
   text-decoration:none;
   color:#000000;
   text-align:center;
 }
 #u16 {
   position:absolute;
-  left:419px;
-  top:830px;
-  width:379px;
-  height:37px;
+  left:372px;
+  top:497px;
+  width:228px;
+  height:22px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:27px;
+  font-size:17px;
 }
 #u16_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:379px;
-  height:37px;
+  width:228px;
+  height:22px;
 }
 #u17 {
   position:absolute;
   left:2px;
-  top:1px;
-  width:375px;
+  top:0px;
+  width:224px;
   word-wrap:break-word;
 }
 #u18 {
   position:absolute;
-  left:450px;
-  top:950px;
-  width:298px;
-  height:35px;
+  left:375px;
+  top:569px;
+  width:221px;
+  height:27px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:27px;
+  font-size:20px;
 }
 #u18_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:298px;
-  height:35px;
+  width:221px;
+  height:27px;
 }
 #u19 {
   position:absolute;
   left:0px;
   top:0px;
-  width:298px;
+  width:221px;
   white-space:nowrap;
 }
 #u20 {
   position:absolute;
-  left:685px;
-  top:567px;
-  width:128px;
-  height:55px;
+  left:532px;
+  top:339px;
+  width:77px;
+  height:33px;
 }
 #u20_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:128px;
-  height:55px;
+  width:77px;
+  height:33px;
   font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
-  font-size:27px;
+  font-size:15px;
   text-decoration:none;
   color:#000000;
 }

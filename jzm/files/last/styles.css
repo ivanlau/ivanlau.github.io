@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:929px;
+  width:678px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,8 +16,8 @@
   position:absolute;
   left:300px;
   top:0px;
-  width:85px;
-  height:84px;
+  width:51px;
+  height:50px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -26,23 +26,23 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:85px;
-  height:84px;
+  width:51px;
+  height:50px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:34px;
-  width:81px;
+  top:17px;
+  width:47px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u2 {
   position:absolute;
-  left:384px;
+  left:351px;
   top:0px;
-  width:544px;
-  height:84px;
+  width:327px;
+  height:50px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -51,23 +51,23 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:544px;
-  height:84px;
+  width:327px;
+  height:50px;
 }
 #u3 {
   position:absolute;
   left:2px;
-  top:34px;
-  width:540px;
+  top:17px;
+  width:323px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u4 {
   position:absolute;
-  left:384px;
-  top:119px;
-  width:460px;
-  height:499px;
+  left:351px;
+  top:71px;
+  width:276px;
+  height:299px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -76,126 +76,126 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:460px;
-  height:499px;
+  width:276px;
+  height:299px;
 }
 #u5 {
   position:absolute;
   left:2px;
-  top:242px;
-  width:456px;
+  top:142px;
+  width:272px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u6 {
   position:absolute;
-  left:579px;
-  top:647px;
-  width:116px;
-  height:50px;
+  left:468px;
+  top:387px;
+  width:70px;
+  height:30px;
 }
 #u6_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:116px;
-  height:50px;
+  width:70px;
+  height:30px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:27px;
+  font-size:20px;
   text-decoration:none;
   color:#000000;
   text-align:left;
 }
 #u7 {
   position:absolute;
-  left:425px;
-  top:764px;
-  width:384px;
-  height:134px;
+  left:375px;
+  top:457px;
+  width:231px;
+  height:80px;
 }
 #u7_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:384px;
-  height:134px;
+  width:231px;
+  height:80px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:27px;
+  font-size:20px;
   text-decoration:none;
   color:#999999;
   text-align:left;
 }
 #u8 {
   position:absolute;
-  left:426px;
-  top:647px;
-  width:67px;
-  height:43px;
+  left:375px;
+  top:387px;
+  width:55px;
+  height:35px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:33px;
+  font-size:27px;
 }
 #u8_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:67px;
-  height:43px;
+  width:55px;
+  height:35px;
 }
 #u9 {
   position:absolute;
   left:0px;
   top:0px;
-  width:67px;
+  width:55px;
   white-space:nowrap;
 }
 #u10 {
   position:absolute;
-  left:425px;
-  top:712px;
-  width:133px;
-  height:43px;
+  left:375px;
+  top:426px;
+  width:109px;
+  height:35px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:33px;
+  font-size:27px;
 }
 #u10_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
-  height:43px;
+  width:109px;
+  height:35px;
 }
 #u11 {
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:109px;
   white-space:nowrap;
 }
 #u12 {
   position:absolute;
-  left:701px;
-  top:647px;
-  width:116px;
-  height:50px;
+  left:541px;
+  top:387px;
+  width:70px;
+  height:30px;
 }
 #u12_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:116px;
-  height:50px;
+  width:70px;
+  height:30px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:27px;
+  font-size:20px;
   text-decoration:none;
   color:#000000;
 }
@@ -205,22 +205,22 @@
 #u13 {
   position:absolute;
   left:300px;
-  top:990px;
-  width:629px;
-  height:12px;
+  top:593px;
+  width:378px;
+  height:7px;
 }
 #u13_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:629px;
-  height:12px;
+  width:378px;
+  height:7px;
 }
 #u14 {
   position:absolute;
   left:2px;
-  top:-2px;
-  width:625px;
+  top:-4px;
+  width:374px;
   visibility:hidden;
   word-wrap:break-word;
 }
