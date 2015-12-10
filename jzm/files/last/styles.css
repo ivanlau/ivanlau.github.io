@@ -103,7 +103,7 @@
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:20px;
+  font-size:15px;
   text-decoration:none;
   color:#000000;
   text-align:left;
@@ -124,7 +124,7 @@
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:20px;
+  font-size:15px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -132,51 +132,51 @@
 #u8 {
   position:absolute;
   left:375px;
-  top:387px;
-  width:55px;
-  height:35px;
+  top:389px;
+  width:35px;
+  height:23px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:27px;
+  font-size:17px;
 }
 #u8_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:55px;
-  height:35px;
+  width:35px;
+  height:23px;
 }
 #u9 {
   position:absolute;
   left:0px;
   top:0px;
-  width:55px;
+  width:35px;
   white-space:nowrap;
 }
 #u10 {
   position:absolute;
   left:375px;
   top:426px;
-  width:109px;
-  height:35px;
+  width:69px;
+  height:23px;
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:27px;
+  font-size:17px;
 }
 #u10_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:109px;
-  height:35px;
+  width:69px;
+  height:23px;
 }
 #u11 {
   position:absolute;
   left:0px;
   top:0px;
-  width:109px;
+  width:69px;
   white-space:nowrap;
 }
 #u12 {
@@ -195,7 +195,7 @@
   font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
-  font-size:20px;
+  font-size:15px;
   text-decoration:none;
   color:#000000;
 }
