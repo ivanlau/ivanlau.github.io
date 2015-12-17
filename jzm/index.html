@@ -68,7 +68,23 @@
       </div>
     </div>
     </body>
+
     <!-- 多说评论框 start -->
+    
+#ds-thread #ds-reset .ds-replybox {
+position: fixed;/*用来固定评论框*/
+bottom: 0px;/*固定在底部*/
+left: 10px;/*左侧稍微留些空间*/
+width: 350px;/*手动指定评论框的宽度*/
+z-index:99999;/*使其处于最上层，防止被页面其他元素挡住*/
+}
+#ds-thread #ds-reset .ds-textarea-wrapper textarea {
+background: url(http://blog.leniy.org/****/textarea.jpg);
+}
+::-webkit-input-placeholder {
+    color:#125DE0;
+    font-size: 20px;
+}
   <div class="ds-thread" data-thread-key="index" data-title="首页" data-url="http://ivanlau.com/jzm/index.html"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
